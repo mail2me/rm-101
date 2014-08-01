@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<project name="hello" default="executable" >
+<property file="new.properties" />
+	<target name="executable" >
+			<exec executable="cmd" >
+			<arg value="/c" />
+			<arg value="${yahoo}.bat" />
+			<arg value="-p"/>
+			</exec>
+	</target>
+</project>
+
+<!--
+?xml version="1.0" ?>
+<project name="hello" default="executable">
+	<target name="executable" >
+		<exec executable="cmd" >
+		<arg value="/c" />
+		<arg value="bat1.bat" />
+		<arg value="-p" />
+		</exec>
+	</target>
+</project>
+
+-->
