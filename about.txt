@@ -1,0 +1,59 @@
+this is bala ramesh completed my graduation computer science and engineering in pvpsit collage.
+currently i am working in virtusa global it services as a build and release engineer having 3.6 year 
+experience. current project is Debatescape is also called a reputation management tool. 
+
+	is a piece of software that customers saying about the bt on public forums and blog like twitter ,
+	facebook , youtube etc and pick up negative comments about bt . implementing the product and 
+	service according to customers .
+	
+	my roles are : 
+	1.running tests and maintain the code repository
+	2. weekly backup 
+	3. automate and monitor daily project development builds by using build tool jenkins.
+	4. verify build request, resolve merge and branch conflicts 
+	5. automated build process using ant.
+	6. troubleshoot basics system issues on build and test server (like weblogic , apache tomcat )
+	7. do the necessary deployment on tomcat/ weblogic
+	8. working knowledge on shell scripting.
+	9. Minimize build times and build dependencies to maximize developer productivity.
+	
+	if build running long time in remote server, what time we can move files into local machine runs the file after that move a file in
+		remote server. 
+===========================================================================================================================	
+ant goals:
+1. compile 
+2. package the binaries
+3. deploy the binaries to the test server
+4. test your changes
+5. copy code from one location to other.
+=============================================================================================================================
+Jenkins: Jenkins is one open source tool to perform ci. the basic functionality of Jenkins is to monitor a version control system
+		  and to start and monitor a build system if changes occur. Jenkins monitor the whole build process and provides 
+		  reports and notifications to alert maintainer on success or error.
+=============================================================================================================================		  
+		  
+we have other teams also and we combined work together for project .
+
+http://mrbool.com/differences-between-git-and-svn/30636
+
+http://boxysystems.com/index.php/5-fundamental-differences-between-git-svn/
+
+https://wiki.jenkins-ci.org/display/JENKINS/JBoss
+=============================================================================================================================	
+1)	Problem using Jenkins git-repo plugin
+	
+git 1.9.4 is installed.
+
+Using repo plugin v1.6
+
+When scheduling the build, I got this error message.
+
+fatal: cannot get https://gerrit.googlesource.com/git-repo/clone.bundle fatal: error [Errno 101] Network is unreachable. Finished: FAILURE
+
+=================================================
+
+nagios tool  server , c drive lo intha space undi free space anta ... anta space use 
+
+jenkins in real time creeating new item job in jenkins after for each and every data after that monitoring 
+
+i am not aware of this issuse . i do some analysis 
